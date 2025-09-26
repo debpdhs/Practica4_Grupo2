@@ -83,6 +83,13 @@ docker compose -f ../postgres/compose.postgres.yml  up -d
 
 ### PASO 6: Ingreso al portar del Servidor N8N 
 
+Se ingresan los datos del usuario y sus datos solicitados:
+
+Usuario: grupo2@hotmail.com
+Nombre: grupo2
+Apellido: practica4
+Password: Mi1Pass3Seguro4!
+
 ```bash
     http://localhost:5678/
 ```
