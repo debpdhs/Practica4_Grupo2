@@ -85,13 +85,13 @@ docker compose -f ../postgres/compose.postgres.yml  up -d
 
 Se ingresan los datos del usuario y sus datos solicitados:
 
-Usuario: grupo2@hotmail.com
-Nombre: grupo2
-Apellido: practica4
-Password: Mi1Pass3Seguro4!
-
 ```bash
     http://localhost:5678/
+
+    Usuario: grupo2@hotmail.com
+    Nombre: grupo2
+    Apellido: practica4
+    Password: Mi1Pass3Seguro4!
 ```
 
 **Salida Esperada**
